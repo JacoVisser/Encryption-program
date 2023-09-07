@@ -1,0 +1,10 @@
+C:\Users\jacov\Desktop\Studies\CMPG 215 Encryption project\CMPG 215 Encryption project\bin\Debug\CMPG 215 Encryption project.exe.config
+C:\Users\jacov\Desktop\Studies\CMPG 215 Encryption project\CMPG 215 Encryption project\bin\Debug\CMPG 215 Encryption project.exe
+C:\Users\jacov\Desktop\Studies\CMPG 215 Encryption project\CMPG 215 Encryption project\bin\Debug\CMPG 215 Encryption project.pdb
+C:\Users\jacov\Desktop\Studies\CMPG 215 Encryption project\CMPG 215 Encryption project\obj\Debug\CMPG 215 Encryption project.csprojAssemblyReference.cache
+C:\Users\jacov\Desktop\Studies\CMPG 215 Encryption project\CMPG 215 Encryption project\obj\Debug\CMPG_215_Encryption_project.Form1.resources
+C:\Users\jacov\Desktop\Studies\CMPG 215 Encryption project\CMPG 215 Encryption project\obj\Debug\CMPG_215_Encryption_project.Properties.Resources.resources
+C:\Users\jacov\Desktop\Studies\CMPG 215 Encryption project\CMPG 215 Encryption project\obj\Debug\CMPG 215 Encryption project.csproj.GenerateResource.cache
+C:\Users\jacov\Desktop\Studies\CMPG 215 Encryption project\CMPG 215 Encryption project\obj\Debug\CMPG 215 Encryption project.csproj.CoreCompileInputs.cache
+C:\Users\jacov\Desktop\Studies\CMPG 215 Encryption project\CMPG 215 Encryption project\obj\Debug\CMPG 215 Encryption project.exe
+C:\Users\jacov\Desktop\Studies\CMPG 215 Encryption project\CMPG 215 Encryption project\obj\Debug\CMPG 215 Encryption project.pdb
